@@ -1,4 +1,4 @@
-# liste-des-courses
+# liste-de-courses
 php
 
 Sujet:
